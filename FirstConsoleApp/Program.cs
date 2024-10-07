@@ -27,7 +27,6 @@
         string c = "A";
         Console.WriteLine(c);
         int _age = 11;
-        int _age<>10;
         Console.WriteLine(_age);
         Console.Read();
         
